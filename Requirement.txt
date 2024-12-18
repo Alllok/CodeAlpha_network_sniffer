@@ -5,4 +5,5 @@ To run this application, you need the following Python libraries:
 - pandas - For exporting the captured data to a CSV file.
 
 You can install these dependencies using pip:
-            pip install scapy PyQt5 pandas
+
+     pip install scapy PyQt5 pandas
