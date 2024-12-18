@@ -12,7 +12,7 @@ Usage :-
 
 - Stop Sniffing: Press the "Stop Sniffing" button to halt the packet capture process.
 
-= Export to CSV: Press the "Export to CSV" button to save the captured packet data to a CSV file.
+- Export to CSV: Press the "Export to CSV" button to save the captured packet data to a CSV file.
 
 How It Works :-
 - Scapy: This library is used to capture network packets. It processes the packets as they are sniffed, extracting key details like source IP, destination IP, protocol, and packet length.
